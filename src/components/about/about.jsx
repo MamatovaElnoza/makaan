@@ -10,11 +10,8 @@ const About = () => {
       <div className="row align-items-center g-5">
         <div className="col-lg-6">
           <div className="position-relative overflow-hidden rounded-2 about-img-wrapper">
-            <img
-              
-              alt="About"
-              className="img-fluid rounded-2"
-            />
+            <img src="../../assets/img/about.jpg" alt="About"
+              className="img-fluid rounded-2" />
             <div className="bg-shape"></div>
           </div>
         </div>

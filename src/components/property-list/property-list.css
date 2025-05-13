@@ -1,0 +1,90 @@
+.property-container {
+  padding: 60px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.property-header {
+  text-align: left;
+  width: 60%;
+  margin-bottom: 40px;
+  margin-left: 20px;
+}
+
+.property-header h2 {
+  font-size: 2.7rem;
+  font-weight: bold;
+}
+.cursor {
+    font-weight: bold;
+    font-size: 21px;
+}
+.cursor:hover{
+    color: #00B98E;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.property-header p {
+  font-size: 1rem;
+}
+.bold{
+    font-weight: bold;
+    font-size: 22px;
+    color: #00B98E;
+}
+.property-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.property-card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease-in-out;
+}
+
+.property-card img {
+  border-radius: 5px;
+
+}
+
+.property-card:hover img{
+  transform: translateY(-5px);
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+}
+h6{
+    color: #666;
+}
+.property-type {
+  background-color: #00B98E;
+  color: white;
+  padding: 4px 10px;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.property-details {
+  display: flex;
+  justify-content: space-between;
+  color: #666;
+  font-size: 0.9rem;
+  margin-top: 20px;
+  border-top: dashed 1px #00B98E;
+  padding-top: 8px;
+}
+.prop-img {
+    width: 330px;
+}
+.btnjon{
+    background-color: #00B98E;
+    color: #fff;
+    margin: 30px 0 0 500px;
+    padding: 10px;
+}

@@ -24,22 +24,22 @@ const Features = () => {
       count: "123 Properties",
     },
     {
-      icon: "/assets/img/icon-apartment.png",
+      icon: "/assets/img/icon-building.png",
       title: "Apartment",
       count: "123 Properties",
     },
     {
-      icon: "/assets/img/icon-villa.png",
+      icon: "/assets/img/icon-neighborhood.png",
       title: "Villa",
       count: "123 Properties",
     },
     {
-      icon: "/assets/img/icon-house.png",
+      icon: "/assets/img/icon-condominium.png",
       title: "Home",
       count: "123 Properties",
     },
     {
-      icon: "/assets/img/icon-housing.png",
+      icon: "/assets/img/icon-luxury.png",
       title: "Office",
       count: "123 Properties",
     },

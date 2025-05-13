@@ -86,3 +86,15 @@
 .add-property-btn:hover {
   background-color: #218838;
 }
+.navbar .nav-link {
+  color: #000;
+  transition: color 0.3s ease;
+}
+
+.navbar .nav-link:hover {
+  color: #00B98E;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}

@@ -5,6 +5,7 @@ import NavBar from '../navbar/navbar';
 import CarouselSection from '../carousel/carousel-section';
 import NestedExample from '../search-bar/search-bar';
 import Features from '../features/featurews';
+import About from '../about/about';
 
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
     <CarouselSection />
     <NestedExample />
     <Features />
+    <About />
     </>
   )
 }

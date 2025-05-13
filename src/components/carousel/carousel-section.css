@@ -1,0 +1,20 @@
+.half-carousel {
+  height: 100vh;
+}
+
+.carousel-half img {
+  height: 100vh;
+  object-fit: cover;
+}
+
+.info-half {
+  background-color: #f9f9f9;
+}
+
+.color-rgb {
+    color: rgb(14, 46, 80) !important;
+}
+
+.color-green {
+    color: #218838 !important;
+}

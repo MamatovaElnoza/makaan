@@ -8,6 +8,7 @@ import Features from '../features/featurews';
 import About from '../about/about';
 import PropertyList from '../property-list/property-list';
 import Contact from '../contact/contact';
+import Team from '../team/team';
 
 
 const App = () => {
@@ -20,6 +21,7 @@ const App = () => {
     <About />
     <PropertyList />
     <Contact />
+    <Team />
     </>
   )
 }

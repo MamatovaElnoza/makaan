@@ -1,0 +1,22 @@
+.features-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.team-container {
+  padding: 40px 0;
+}
+
+.team-header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.team-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px;
+  justify-content: center;
+}
+.black-bold{
+    font-weight: bold;
+}

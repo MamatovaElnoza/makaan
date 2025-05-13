@@ -14,7 +14,7 @@ const NavBar = () => {
 
         <ul className="navbar-nav">
           <li><a href="#home" className="text-success fw-bold">HOME</a></li>
-          <li><a href="#about">ABOUT</a></li>
+          {/* <li><a href="#about">ABOUT</a></li>
           <li>
             <a href="#property">PROPERTY</a>
             <ul>
@@ -30,7 +30,7 @@ const NavBar = () => {
               <li><a href="#404">404 Page</a></li>
             </ul>
           </li>
-          <li><a href="#contact">CONTACT</a></li>
+          <li><a href="#contact">CONTACT</a></li> */}
         </ul>
 
         <button className="add-property-btn">Add Property</button>

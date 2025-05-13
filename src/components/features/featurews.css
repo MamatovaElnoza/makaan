@@ -1,0 +1,62 @@
+.center {
+    align-items: center;
+    align-content: center;
+}
+.features-section {
+  padding: 60px 20px;
+}
+
+.features-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.features-header h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.features-header p {
+  max-width: 700px;
+  margin: 10px auto 0;
+}
+
+.features-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+}
+
+.feature-card {
+  width: 250px;
+  border: 10px solid #EFFDF5;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.5s ease;
+  background-color: #fff;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+  background-color: #00B98E;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.feature-card img {
+  height: 70px;
+  margin-bottom: 15px;
+  border-radius: 50%;
+  padding: 5px;
+}
+.feature-card:hover img {
+  background-color: #fff;
+}
+.feature-card:hover h1 {
+  color: #fff !important;
+}
+.feature-card:hover p {
+  color: #fff;
+}

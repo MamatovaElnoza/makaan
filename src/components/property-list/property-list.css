@@ -88,3 +88,7 @@ h6{
     margin: 30px 0 0 500px;
     padding: 10px;
 }
+.btnjon:hover {
+  background-color: #0bc297;
+
+color: #fff;}

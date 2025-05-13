@@ -7,6 +7,7 @@ import NestedExample from '../search-bar/search-bar';
 import Features from '../features/featurews';
 import About from '../about/about';
 import PropertyList from '../property-list/property-list';
+import Contact from '../contact/contact';
 
 
 const App = () => {
@@ -18,6 +19,7 @@ const App = () => {
     <Features />
     <About />
     <PropertyList />
+    <Contact />
     </>
   )
 }

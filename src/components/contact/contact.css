@@ -1,0 +1,23 @@
+.btn-blue {
+    color: #fff;
+    background-color: rgb(14, 46, 80);
+    font-weight: bold;
+    margin-left: 10px;
+}
+.btn-green:hover {
+    color:#fff
+}
+.btn-blue:hover{
+    background-color: rgb(17, 60, 105);
+    color: #fff;
+}
+
+.large{
+    font-size: 43px;
+    color: rgb(14, 46, 80);
+}
+
+.for-border {
+    border: solid 15px #EFFDF5;
+    border-radius: 12px;
+}

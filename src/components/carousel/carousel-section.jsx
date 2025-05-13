@@ -9,7 +9,7 @@ const HalfCarousel = () => {
       <div className="info-half w-50 d-flex flex-column justify-content-center align-items-start p-5">
         <h1 className="mb-3 fw-bold color-rgb">Find A <span className="color-green">Perfect Home</span> To Live With Your Family</h1>
         <p className="lead">Vero elitr justo clita lorem. Ipsum dolor at sed stetsit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-        <a href="/" className="btn btn-success mt-4 p-3">Get Started</a>
+        <a href="/" className="btn btn-green mt-4 p-3">Get Started</a>
       </div>
 
       <div className="carousel-half w-50">

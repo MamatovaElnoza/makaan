@@ -3,6 +3,7 @@ import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavBar from '../navbar/navbar';
 import CarouselSection from '../carousel/carousel-section';
+import NestedExample from '../search-bar/search-bar';
 
 
 const App = () => {
@@ -10,6 +11,7 @@ const App = () => {
     <>
     <NavBar />
     <CarouselSection />
+    <NestedExample />
     </>
   )
 }

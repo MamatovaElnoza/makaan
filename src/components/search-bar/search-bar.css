@@ -1,0 +1,25 @@
+.search-bar-container {
+  background-color: #00B98E ;
+  padding: 30px;
+  margin-top: 40px;
+}
+
+.search-dropdown .dropdown-toggle {
+  border-radius: 10px;
+  padding: 10px 20px;
+  min-width: 160px;
+}
+
+.search-input {
+  border-radius: 10px;
+  padding: 10px 15px;
+  flex-grow: 1;
+  min-width: 200px;
+}
+
+.search-button {
+  padding: 10px 25px;
+  border-radius: 10px;
+  font-weight: bold;
+  background-color: rgb(14, 46, 80);
+}

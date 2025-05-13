@@ -16,5 +16,15 @@
 }
 
 .color-green {
-    color: #218838 !important;
+    color: #00B98E !important;
+}
+
+.btn-green {
+  background-color: #00B98E;
+  color: white;
+  font-weight: bold;
+}
+
+.btn-green:hover {
+  background-color: #029673;
 }
